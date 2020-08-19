@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EACD,IAAI,EAAE,CAAC;EACP,SAAS,EAAE,GAAG;CAAG",
+    "sources": [
+        "TaskListComponent.sass"
+    ],
+    "names": [],
+    "file": "TaskListComponent.css"
+}
